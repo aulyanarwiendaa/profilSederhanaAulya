@@ -1,0 +1,39 @@
+
+
+.main-header{
+	background-image: url(../image/IMG_5571.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10% 0;
+}
+
+.container-fluid{
+	overflow: hidden;
+}
+
+.hero-gambar{
+	margin-bottom: 2%;
+}
+
+.main-cerita{
+	padding: 12% 0;
+}
+
+.main-cerita h6{
+		padding-bottom: 12% 0;
+}
+
+.main-galeri{
+	background-color: #DDDDDD;
+	padding: 12% 0;
+}
+
+.main-galeri h4{
+	margin-bottom: 5%;
+}
+
+.main-footer{
+	background-color: black;
+	color: white;
+	padding: 5% 0;
+}
